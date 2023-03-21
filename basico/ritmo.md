@@ -2,13 +2,13 @@
 layout: default
 title: Rítmos
 parent: Básico
-nav_order: 2
+nav_order: 3
 previous:
-    url: index
-    title: Módulo básico
+    url: afinacao
+    title: Afinação
 next:
-    url: guitarra.html
-    title: A guitarra
+    url: repertorio
+    title: Repertório
 ---
 
 # Rítmos
@@ -32,3 +32,27 @@ Viola.
 ## Guarânia
 
 - Chalana - Mário Zan
+
+## Cururu
+
+- Menino da Porteira - Teddy Vieira e Luizinho
+- Seresta na roça - Levi Ramiro
+
+## Valsa
+
+- Saudades de Matão - Antenôgenes e Jorge Galati
+
+## Cateretê
+
+- Pau-Brasil - Gadeão da Viola
+
+## Toada
+
+- Chico Mineiro - Tonico e Tinoco
+- Cabocla Tereza - Tonico e Tinoco
+- Boiadeiro errante - Sérgio Reis
+
+## Rock
+
+- Trem das 7 - Raul Seixas
+- Stairway to Heaven - Led Zeppelin

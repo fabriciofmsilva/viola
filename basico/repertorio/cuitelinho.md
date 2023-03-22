@@ -45,3 +45,39 @@ Cifra
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPbNCExNF10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+Solo
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMZEUUHsPFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Solo
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObGai8Tq87g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Solo
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Bdy788Yhm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Base vs solo
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLEDGkw_qDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Música
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LebeaZ_aD8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Ponteado
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vddLbShKxT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

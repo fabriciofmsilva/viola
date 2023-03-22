@@ -20,7 +20,7 @@ Teddy Vieira
 
 ---
 
-Rítmo: Toada
+Ritmo: Toada
 
 Acordes:
 
@@ -37,3 +37,11 @@ Estrofe:
 Refrão:
 
 | D | C | G | D | C | G |
+
+## Vídeos
+
+Cifra
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R65R5yJ1vtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

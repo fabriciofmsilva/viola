@@ -6,7 +6,7 @@ has_children: true
 nav_order: 6
 previous:
     url: ritmo
-    title: Rítmo
+    title: Ritmo
 ---
 
 # Repertório

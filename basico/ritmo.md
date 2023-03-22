@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rítmos
+title: Ritmos
 parent: Básico
 nav_order: 3
 previous:
@@ -11,7 +11,7 @@ next:
     title: Tablatura
 ---
 
-# Rítmos
+# Ritmos
 {: .no_toc }
 
 Viola.

@@ -20,7 +20,7 @@ Tonico e Tinoco
 
 ---
 
-Rítmo: Toada
+Ritmo: Toada
 
 Acordes:
 
@@ -31,3 +31,19 @@ Introdução:
 Estrofe:
 
 Refrão:
+
+Ponteado:
+
+## Vídeos
+
+Cifra
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbbQKC-RmBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Ponteado
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_uoirXF9Bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

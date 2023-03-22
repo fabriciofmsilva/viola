@@ -8,7 +8,7 @@ previous:
     title: Afinação
 next:
     url: ritmo
-    title: Rítmo
+    title: Ritmo
 ---
 
 # Acordes

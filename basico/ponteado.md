@@ -46,3 +46,5 @@ Escalas:
 Exemplo 1 - Escala de ré maior
 
 Exemplo 2 - Escala de ré maior com exercício de ponteado
+
+Exemplo 3 - Improviso (usou o ritmo pagode)

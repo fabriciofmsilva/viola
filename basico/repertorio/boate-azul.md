@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Boiadeiro Errante
+title: Boate azul
 parent: Repertório
 grand_parent: Básico
-nav_order: 4
+nav_order: 6
 ---
 
-# Boiadeiro Errante
+# Boate azul
 {: .no_toc }
 
-Teddy Vieira
+Benedito Seviero
 {: .fs-6 .fw-300 }
 
 ## Tópicos
@@ -20,20 +20,12 @@ Teddy Vieira
 
 ---
 
-Rítmo: Toada
+Rítmo: Guarânia
 
 Acordes:
 
-D, C
-
 Introdução:
-
-| D | C | G | % | D | % |
 
 Estrofe:
 
-| G | D | G | D | G | D | C | D | C | D | G |
-
 Refrão:
-
-| D | C | G | D | C | G |

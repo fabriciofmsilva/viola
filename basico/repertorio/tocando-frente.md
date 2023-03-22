@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Boiadeiro Errante
+title: Tocando em frente
 parent: Repertório
 grand_parent: Básico
-nav_order: 4
+nav_order: 8
 ---
 
-# Boiadeiro Errante
+# Tocando em frente
 {: .no_toc }
 
-Teddy Vieira
+Almir Sater e Renato Teixeira
 {: .fs-6 .fw-300 }
 
 ## Tópicos
@@ -20,20 +20,14 @@ Teddy Vieira
 
 ---
 
-Rítmo: Toada
+Rítmo: Guarânia
 
 Acordes:
 
-D, C
+A E D Bm
 
 Introdução:
 
-| D | C | G | % | D | % |
-
 Estrofe:
 
-| G | D | G | D | G | D | C | D | C | D | G |
-
 Refrão:
-
-| D | C | G | D | C | G |

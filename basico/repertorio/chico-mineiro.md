@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chico Mineiro - Tonico e Tinoco
+title: Chico Mineiro
 parent: Repertório
 grand_parent: Básico
 nav_order: 2
@@ -9,7 +9,7 @@ nav_order: 2
 # Cuitelinho
 {: .no_toc }
 
-Pena Branca e Xavantinho
+Tonico e Tinoco
 {: .fs-6 .fw-300 }
 
 ## Tópicos

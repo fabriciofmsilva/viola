@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cuitelinho - Pena Branca e Xavantinho
+title: Cuitelinho
 parent: Repertório
 grand_parent: Básico
 nav_order: 1

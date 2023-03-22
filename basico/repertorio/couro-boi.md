@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Boiadeiro Errante
+title: Couro de boi
 parent: Repertório
 grand_parent: Básico
-nav_order: 4
+nav_order: 5
 ---
 
-# Boiadeiro Errante
+# Couro de boi
 {: .no_toc }
 
-Teddy Vieira
+Tonico e Tinoco
 {: .fs-6 .fw-300 }
 
 ## Tópicos
@@ -24,16 +24,10 @@ Rítmo: Toada
 
 Acordes:
 
-D, C
+G, A7, D
 
 Introdução:
 
-| D | C | G | % | D | % |
-
 Estrofe:
 
-| G | D | G | D | G | D | C | D | C | D | G |
-
 Refrão:
-
-| D | C | G | D | C | G |

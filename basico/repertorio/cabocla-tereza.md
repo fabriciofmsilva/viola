@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cabocla Tereza - Tonico e Tinoco
+title: Cabocla Tereza
 parent: Repertório
 grand_parent: Básico
 nav_order: 3
@@ -9,7 +9,7 @@ nav_order: 3
 # Cuitelinho
 {: .no_toc }
 
-Pena Branca e Xavantinho
+Tonico e Tinoco
 {: .fs-6 .fw-300 }
 
 ## Tópicos

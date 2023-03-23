@@ -51,6 +51,18 @@ Cifra
 <iframe width="560" height="315" src="https://www.youtube.com/embed/No5swpJ7oB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+Introdução
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25cA1Ltvb4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Ponteado
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IauX4NeladM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 Ponteado
 
 <div class="video-container">

@@ -31,6 +31,8 @@ Viola.
 
 ## Guarânia
 
+Ritmo de origem no Paraguai tem como caracteristica o andamento lento e tons menores.
+
 ```
 ~
 P I P I P
@@ -46,17 +48,26 @@ o = Cabeça do tempo
 . = Contra tempo
 ```
 
-- Boate Azul - Benedito Seviero
+- Boate Azul - Benedito Seviero (Joaquim e Manoel)
 - Cabecinha no ombro - Paulo Borges
 - Amanheceu, peguei a viola - Renato Teixeira
 - Chalana - Mário Zan
+- Índia – Cascatinha & Inhana
+- Galopeira – Donizetti
+- Pra não dizer que não falei das flores – Geraldo Vandré
+- Fio de cabelo – Chitãozinho & Xororó
+- Judiaria – Lupicínio Rodrigues
+- Telefone mudo – Trio Parada Dura
 
 ## Toada
 
+Essa batida funciona bem para músicas caipira-sertanejo mais antigas.
+
 ```
-P   I   P   I
-V   ^   v   v
+P   I   I   P
+V   ^   v   V
 o . o . o . o .
+1   2   3   4
 
 ~ = Rasqueado
 P = Polegar
@@ -67,10 +78,27 @@ o = Cabeça do tempo
 . = Contra tempo
 ```
 
+### Músicas
+{: .no_toc }
+
 - Cabocla Tereza - Raul Torres e Florêncio
 - Chico Mineiro - Tonico e Tinoco
 - Toada - Boca Livre
 - Boiadeiro errante - Sérgio Reis
+- Luar do sertão - Chitãozinho & Xororó
+- Felicidade - Tião Carreiro e Pardinho
+- João de Barro - Sérgio Reis
+
+### Vídeos
+{: .no_toc }
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cliaE8dHtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOd3C8Uz2oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Cateretê
 
